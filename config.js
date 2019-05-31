@@ -24,7 +24,7 @@ module.exports = {
   ],
   author: {
     name: 'Paulo Carvalho',
-    photo: '/photo.jpg',
+    photo: '/photo.png',
     bio: 'Dad. Forever aspiring Software Craftsman. Wannabe Maker. CoderDojo Champion. ',
     contacts: {
       email: '#',
