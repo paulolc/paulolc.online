@@ -4,6 +4,7 @@ module.exports = {
   url: 'https://paulolc.online',
   title: 'Blog by Luxo',
   subtitle: 'From someone who loves to write software',
+  icon: 'static/photo.png',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
