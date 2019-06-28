@@ -5,7 +5,7 @@ slug: >-
   If you plan to have an informed decision to buy the new Raspberry Pi 4 by
   looking at the specs first and ponder the pros and cons first. Just don't. You
   don't need it. Just buy it.
-draft: true
+draft: false
 date: 2019-06-25T15:28:19.819Z
 description: I talk thoroughbly and thoughtfully about buying a Raspberry Pi 4.... or not.
 category: Opinion
