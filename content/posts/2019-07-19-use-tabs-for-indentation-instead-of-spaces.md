@@ -4,7 +4,7 @@ title: Use tabs for indentation instead of spaces.
 slug: >-
   Accessibility: the real reason you should use tabs instead of spaces for
   indentation
-draft: true
+draft: false
 date: 2019-07-19T07:54:16.489Z
 description: >-
   Several online discussions that about the reasons you should use tabs for
