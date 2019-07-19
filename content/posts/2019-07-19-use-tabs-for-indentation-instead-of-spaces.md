@@ -7,8 +7,8 @@ slug: >-
 draft: false
 date: 2019-07-19T07:54:16.489Z
 description: >-
-  Several online discussions that about the reasons you should use tabs for
-  indentation and spaces for alignment.
+  Several online discussions about the reasons you should use tabs instead of
+  spaces for indentation.
 category: coding
 ---
 Accessibility. Accessibility is the real reason you must use tabs instead of spaces for indentation.  
