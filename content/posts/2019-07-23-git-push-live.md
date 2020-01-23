@@ -1,7 +1,7 @@
 ---
 template: post
 title: GIT PUSH LIVE
-slug: A Geek's Fantasy Festival
+slug: geeks-dream-festival
 draft: false
 date: 2019-07-23T22:48:19.290Z
 description: A Geek's Fantasy Festival
