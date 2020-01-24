@@ -28,12 +28,12 @@ module.exports = {
     photo: '/photo.png',
     bio: 'Dad. Forever aspiring Software Craftsman. Probable Hacker. Wannabe Maker. Possible Tinkerer. CoderDojo Champion. ',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'paulolc@futurix.pt',
+//      telegram: '#',
+      twitter: 'paulolc',
+      github: 'paulolc'
+//      rss: '#',
+//      vkontakte: '#'
     }
   }
 };
