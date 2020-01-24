@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: Paulo L. de Carvalho
+slug: about
 draft: false
 ---
 I'm a software craftsman at heart and a software architect by trade at Nokia. I am currently working hard in designing software to automate the operations of telecommunications operators networks around the world. Previously, I also proudly helped bringing the Nokia Bell Lab's Future X vision for the next generation of telecommunications networks to fruition. Of my 20+ years career in the software industry, more than half of it has been around the creation and design of software to digest gargantuan blobs of performance management data coming from the most complex telco networks around the world and turning it into knowledge about the network health and insights about its future capacity. 
