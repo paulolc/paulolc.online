@@ -29,11 +29,8 @@ module.exports = {
     bio: 'Dad. Forever aspiring Software Craftsman. Probable Hacker. Wannabe Maker. Possible Tinkerer. CoderDojo Champion. ',
     contacts: {
       email: 'paulolc@futurix.pt',
-//      telegram: '#',
       twitter: 'paulolc',
       github: 'paulolc'
-//      rss: '#',
-//      vkontakte: '#'
     }
   }
 };
