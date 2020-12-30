@@ -16,7 +16,8 @@ Many times I'm browsing the filesystem through my work directories and in one sp
 Finally I took the time to search for a tool to do it and there it was: **wslpath**
 
 ```
-$ wslpath "C:\Windows\system32"/mnt/c/Windows/system
+$ wslpath "C:\Windows\system32"
+/mnt/c/Windows/system
 ```
 
 
