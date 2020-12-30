@@ -2,7 +2,7 @@
 template: post
 title: 'wslpath - convert windows paths to wsl equivalents '
 slug: wslpath
-draft: true
+draft: false
 date: 2020-12-30T13:23:36.509Z
 description: >-
   If working in WSL and need to convert a windows path to POSIX (Linux, WSL).
