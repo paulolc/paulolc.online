@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://paulolc.online',
-  title: "The Aspiring Software Craftsman",
+  title: 'The Aspiring Software Craftsman',
   subtitle: 'From someone who loves to write software',
   icon: 'static/photo.png',
   copyright: '© All rights reserved.',
