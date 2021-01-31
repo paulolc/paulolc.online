@@ -11,9 +11,19 @@ category: Electronics
 ---
 This is a very simple breadboard test circuit for th HPDL1414 Bubble 4 Digit 16 Segment Display.
 
-# Circuit Diagram
+# Test Circuit
+
+![](/media/hpdl1414-photo-breadboard-circuit-web.jpg)
+
+![](/media/hpdl1414-photo-bright-display.jpg)
+
+## Diagram
 
 ![](/media/test-circuit-with-nanov3-and-hpdl1414-4-digit-bubble-led-16-segment-display.svg "Circuit Diagram for the breadboard test circuit for the HPDL1414 Bubble 4 Digit 16 Segment Display")
+
+## HPDL1414 Pins
+
+![](/media/hpdl1414-pins.png)
 
 # References:
 
