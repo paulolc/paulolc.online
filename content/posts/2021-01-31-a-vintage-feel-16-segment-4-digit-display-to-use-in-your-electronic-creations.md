@@ -29,6 +29,7 @@ This is a very simple breadboard test circuit for th HPDL1414 Bubble 4 Digit 16 
 
 # References:
 
+* Bought a 10 pack on AliExpress: [10PCS/LOT HPDL-1414 HPDL1414 IC ](https://www.aliexpress.com/item/32597998072.html)
 * The Youtube Video: [Test circuit with NanoV3 and HPDL1414   4 digit bubble led 16 segment display](https://www.youtube.com/watch?v=85O8SWSdtHw&feature=youtu.be&ab_channel=PauloCarvalho)
 * Another YouTube video: [From Start To Finish: HPDL-1414](https://www.youtube.com/watch?v=PlggHChsFKw)
 * Hackaday: [Arduino Pro Mini - DL1414](https://hackaday.io/project/7690-led-displays-on-arduinos-a-collection/log/25874-arduino-pro-mini-dl1414)
