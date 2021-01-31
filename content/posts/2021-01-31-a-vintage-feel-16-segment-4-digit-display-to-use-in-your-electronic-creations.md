@@ -23,6 +23,8 @@ This is a very simple breadboard test circuit for th HPDL1414 Bubble 4 Digit 16 
 
 ## HPDL1414 Pins
 
+![](/media/hpdl1414-character-set.png)
+
 ![](/media/hpdl1414-pins.png)
 
 # References:
