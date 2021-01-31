@@ -26,3 +26,7 @@ Arduino lib for DL1414:
 https://github.com/burakozhan/DL1414
 
 HPDL1414 Datasheet ( http://pdf.datasheetcatalog.com/datasheet/hp/HPDL-1414.pdf):
+
+Here's the circuit diagram:
+
+![](/media/test-circuit-with-nanov3-and-hpdl1414-4-digit-bubble-led-16-segment-display.png "HPDL1414 Bubble 4 Digit 16 Segment Display Simplest Breadboard Test Circuit Diagram")
